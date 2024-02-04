@@ -14,6 +14,9 @@ Explore my professional journey and key experiences in the "Experience" section.
 ## Portfolio Projects
 Browse through a curated collection of projects that highlight my technical skills, creativity, and problem-solving abilities.
 
+## React Smooth Scroll
+Implemented smooth scroll functionality for all the sections
+
 ## Contact
 Connect with me! The "Contact" section provides details on how to reach out, whether for job opportunities, collaborations, or just to say hello.
 
