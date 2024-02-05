@@ -17,9 +17,13 @@ Browse through a curated collection of projects that highlight my technical skil
 ## React Smooth Scroll
 Implemented smooth scroll functionality for all the sections
 
-## React Icons: Enhancing User Interfaces with Iconography
-
+## React Icons
+Enhancing User Interfaces with Iconography
 React Icons is a popular library in the React ecosystem that simplifies the integration of icons into React applications. Iconography plays a crucial role in enhancing user interfaces by providing visual cues, improving aesthetics, and conveying information effectively. 
+
+## Creating Responsive Web Design with Tailwind CSS
+
+In developing my application, achieving responsiveness was a crucial aspect to ensure an optimal user experience across various devices and screen sizes. Leveraging the power of Tailwind CSS, I adopted a mobile-first approach and implemented several strategies to make the application responsive.
 
 ## Contact
 Connect with me! The "Contact" section provides details on how to reach out, whether for job opportunities, collaborations, or just to say hello.
