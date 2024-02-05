@@ -17,6 +17,10 @@ Browse through a curated collection of projects that highlight my technical skil
 ## React Smooth Scroll
 Implemented smooth scroll functionality for all the sections
 
+## React Icons: Enhancing User Interfaces with Iconography
+
+React Icons is a popular library in the React ecosystem that simplifies the integration of icons into React applications. Iconography plays a crucial role in enhancing user interfaces by providing visual cues, improving aesthetics, and conveying information effectively. 
+
 ## Contact
 Connect with me! The "Contact" section provides details on how to reach out, whether for job opportunities, collaborations, or just to say hello.
 
