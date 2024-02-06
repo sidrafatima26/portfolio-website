@@ -12,7 +12,7 @@ Learn more about my background, skills, and passion for frontend development in 
 Explore my professional journey and key experiences in the "Experience" section. Discover the projects and roles that have shaped my career.
 
 ## Portfolio Projects
-Browse through a curated collection of projects that highlight my technical skills, creativity, and problem-solving abilities.
+Browse through a curated collection of projects made using React, JavaScript and Tailwind that highlight my technical skills, creativity, and problem-solving abilities.
 
 ## React Smooth Scroll
 Implemented smooth scroll functionality for all the sections
