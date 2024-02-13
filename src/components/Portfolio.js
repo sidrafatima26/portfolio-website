@@ -1,10 +1,10 @@
 import React from 'react'
-import Razorpay from './Razorpay.png'
-import Discord from './Discord.png'
-import Blogs from './BlogsWebsite.png'
-import RanGif from './RanGif.png'
-import Share from './ShareModal.png'
-import RPG from './RPG.png'
+import Razorpay from '../assets/Razorpay.png'
+import Discord from '../assets/Discord.png'
+import Blogs from '../assets/BlogsWebsite.png'
+import RanGif from '../assets/RanGif.png'
+import Share from '../assets/ShareModal.png'
+import RPG from '../assets/RPG.png'
 
 
 const Portfolio = () => {
