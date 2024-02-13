@@ -1,14 +1,14 @@
 import React from 'react'
-import html from '../../assets/html.png'
-import css from '../../assets/css.png'
-import JavaScript from '../../assets/javascript.png'
+import html from '../assets/html.png'
+import css from '../assets/css.png'
+import JavaScript from '../assets/javascript.png'
 
-import graphql from '../../assets/graphql.png'
-import github from '../../assets/github.png'
-import tailwind from '../../assets/tailwind.png'
-import reactimg from '../../assets/react.png'
-import node from '../../assets/node.png'
-import Redux from '../../assets/Redux.png'
+import graphql from '../assets/graphql.png'
+import github from '../assets/github.png'
+import tailwind from '../assets/tailwind.png'
+import reactimg from '../assets/react.png'
+import node from '../assets/node.png'
+import Redux from '../assets/Redux.png'
 
 const Experience = () => {
 
